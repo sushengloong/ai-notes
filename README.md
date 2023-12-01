@@ -26,3 +26,7 @@ For motivation and inspiration.
 - [AI Engineering 101](https://www.youtube.com/watch?v=C0ZUdFg-iTo)
 - [AI Engineering 201 Part 1: Running Inference](https://www.youtube.com/watch?v=N7lJY5IKVLE)
 - [AI Engineering 201 Part 2: The Rest of the Owl](https://www.youtube.com/watch?v=zl4EdALzktU)
+
+## Podcasts
+
+- [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
