@@ -30,3 +30,11 @@ For motivation and inspiration.
 ## Podcasts
 
 - [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
+
+## Topics
+
+- [Mixture of Experts (MoE)](https://arxiv.org/abs/1701.06538)
+- [Representation Engineering (RepE)](https://github.com/andyzoujm/representation-engineering)
+- [CM3Leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon/)
+- [Reflexion](https://arxiv.org/abs/2303.11366)
+- [Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290)
