@@ -38,3 +38,4 @@ For motivation and inspiration.
 - [CM3Leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon/)
 - [Reflexion](https://arxiv.org/abs/2303.11366)
 - [Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
