@@ -39,3 +39,4 @@ For motivation and inspiration.
 - [Reflexion](https://arxiv.org/abs/2303.11366)
 - [Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io)
+- [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
